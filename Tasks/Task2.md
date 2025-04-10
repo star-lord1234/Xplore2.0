@@ -13,4 +13,4 @@ The code should return the correct morse code represented by the image. The code
 
 You can use [this](https://morsecode.world/international/translator.html) to decode your morse code
 
-#### Link for the image: https://drive.google.com/drive/folders/1Dig70B8t2WgBD9rfyXRn1FJTA-MMJczs
+#### Link for the image: https://drive.google.com/file/d/1q1yOGe_wJOGZxHSgAyt220vRttvAjodQ/view?usp=drive_link
