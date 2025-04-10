@@ -12,4 +12,4 @@ The task is to use OpenCV to:
 - Classify the shapes and create a dictionary to store count of each type of shape you detect.
 ```
 
-#### Link for the image: https://drive.google.com/drive/folders/1Dig70B8t2WgBD9rfyXRn1FJTA-MMJczs
+#### Link for the image: https://drive.google.com/file/d/1eQAhpfVLMckt-K5qNaRVaRDToXBSCLx7/view?usp=drive_link
