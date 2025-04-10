@@ -4,4 +4,4 @@ Try to recreate the given image using your knowledge of drawing shapes in OpenCV
 
 **Note:** Instead of approximating the coordinates manually, try using mathematical operations based on the image's shape (e.g., its width and height) to calculate the positions of the shapes dynamically.
 
-#### Link for the image: https://drive.google.com/drive/folders/1Dig70B8t2WgBD9rfyXRn1FJTA-MMJczs
+#### Link for the image: https://drive.google.com/file/d/1_lmwg6ysoUy3CUDP2Iw6COBrZH-ui-gY/view?usp=drive_link
