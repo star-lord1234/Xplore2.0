@@ -7,4 +7,4 @@ The code to be implemented is required to crop the right areas containing the le
 
 ***Also please do not try to manually crop the features if you are able to see the hidden letters beforehand.***
 
-#### Link for the image: https://drive.google.com/file/d/1Q6Q5Q5Q5
+#### Link for the image: https://drive.google.com/drive/folders/1Dig70B8t2WgBD9rfyXRn1FJTA-MMJczs
