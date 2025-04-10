@@ -14,4 +14,4 @@ The output image should look like this:
 
 ![task3_color_splash](https://github.com/user-attachments/assets/a06bf9ca-e2ab-4fe3-8a46-e20e5943ae71)
 
-#### Link for the image: https://drive.google.com/drive/folders/1Dig70B8t2WgBD9rfyXRn1FJTA-MMJczs
+#### Link for the image: https://drive.google.com/file/d/14vCvPeWqIuDZiN-w67eFFOaO-DvKkgoN/view?usp=drive_link
