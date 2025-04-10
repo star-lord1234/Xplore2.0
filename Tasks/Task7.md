@@ -1,4 +1,4 @@
-## Task 5:
+## Task 7:
 
 Try to recreate the given image using your knowledge of drawing shapes in OpenCV. It does not have to be exact, but aim to create a visually similar representation.
 
