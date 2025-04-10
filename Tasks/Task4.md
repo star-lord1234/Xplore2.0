@@ -4,4 +4,4 @@ You have have been given an image with a white background containing sqaures of 
 
 Note: You have to find area of the square not the contour.
 
-#### Link for the image: https://drive.google.com/drive/folders/1Dig70B8t2WgBD9rfyXRn1FJTA-MMJczs
+#### Link for the image: https://drive.google.com/file/d/195Iy4hEnz9Gecn4xR0eaQp5N-ffXjMy0/view?usp=drive_link
